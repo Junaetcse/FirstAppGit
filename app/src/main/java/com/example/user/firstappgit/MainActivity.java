@@ -12,5 +12,9 @@ public class MainActivity extends AppCompatActivity {
     }
     private void firstgit(){
         String git="git is the painful vcs";
+
+    }
+    private void secoundMethod(){
+        String gitt="Secound time add this ";
     }
 }
